@@ -91,17 +91,15 @@ https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southea
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="LF",FAIL ARMY
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",Mix TV
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/CLUBBING_TV_HD_2014.png/revision/latest/scale-to-width-down/340?cb=20191025112332" group-title="IND",CLUBING TV
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",CLUBING TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
-#EXTINF:-1 group-title="IND",B MUSIC SESSION
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
-#EXTINF:-1 tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" tvg-logo="https://b.kisscc0.com/20180813/vaw/kisscc0-concert-logo-music-computer-icons-concert-logo-5b71426396c973.8649285815341492196176.png" group-title="IND",B MUSIC CONCERT
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Ms",B MUSIC CONCERT
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Mov",Flik

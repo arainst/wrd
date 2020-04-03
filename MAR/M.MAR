@@ -24,9 +24,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_s
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="IND",  JAK TV
 http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="IND",Rajawali TV
-http://210.210.155.35/session/93fc6f62-f34b-11e9-b311-c81f66f89318/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IND",  INEWS
+#EXTINF:-1 tvg-logo="ht#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="IND",  INEWS
 http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="IND", BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
@@ -229,8 +227,6 @@ http://host4.dynns.com/stream/c316ed9333e54442b25077f0bb3cc269.m3u8
 http://210.210.155.66/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JtnXy4h/20200229-230006.png" group-title="SERV210",HITS
 http://210.210.155.66/h/h37/index2.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://www.outdoorchannel.com/network/img/odc/logo.png" group-title="KNOWLEDGE",Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8

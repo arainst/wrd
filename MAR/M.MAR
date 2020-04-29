@@ -460,4 +460,62 @@ https://cdnbdsa1.useetv.com/joss/15/useesports2/chunklist_w1981171571_b494100_sl
 https://cdnbal1.useetv.com/joss/15/useesport/chunklist_w662741836_b684100_sleng_enc=VgJeRHFXwSYRcXA2H2ReJw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="Spo",NBA
 https://cdnkbl2.useetv.com/joss/15/nba/chunklist_w1163536387_b684100_sleng_enc=tcq9NNYHKhy8KBg4a69eWw.m3u8
-
+#EXTINF:-1 group-title="SPO" tvg-logo="https://teevee-hd.com/img/astro1.png",ASTRO SPORTS 1
+http://198.16.106.58:8278/s_1365a3ea_1880/playlist.m3u8?tid=m08891566015815197848&ct=18381&tsum=61cc9942feaba30b7ab0a7552d56f55e
+#https://cdn-laos.workpoint.news/my-asp1hd_720/index.m3u8
+#EXTINF:-1 group-title="SPO" tvg-logo="https://teevee-hd.com/img/astro2.png",ASTRO SPORTS 2
+http://198.16.106.58:8278/s_a1133d50_1928/playlist.m3u8?tid=m04975998805511307485&ct=18381&tsum=b3315022f8a4f0bdc4d1f845581bd8fe
+#https://cdn-laos.workpoint.news/my-asp2hd_720/index.m3u8
+#EXTINF:-1 group-title="SPO" tvg-logo="https://teevee-hd.com/img/astro3.png",ASTRO SPORTS 3
+http://198.16.106.58:8278/s_f0a98bfa_1881/playlist.m3u8?tid=m04302180886113751475&ct=18381&tsum=80406962501d7dba55ae0715afec252b
+#https://cdn-laos.workpoint.news/my-asp3hd_720/index.m3u8
+#EXTINF:-1 group-title="SPO" tvg-logo="https://teevee-hd.com/img/astro4.png",ASTRO SPORTS 4
+http://198.16.106.58:8278/s_6c4db083_1918/playlist.m3u8?tid=m07644713376818317800&ct=18381&tsum=1f883baf9245cdcc4e157b0b98459822
+#EXTINF:-1 group-title="SPO"  tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/qa-bein-sport-1-9743.jpg",Bein 1 Asia
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPO"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
+http://42.98.109.147:9981/stream/channelid/1880674381
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
+http://42.98.109.147:9981/stream/channelid/1218047888
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14984
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",Bein HD4
+http://42.98.109.147:9981/stream/channelid/371552797
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/nhkvWFhq/5.png",Bein HD5
+http://42.98.109.147:9981/stream/channelid/1867525775
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/zGbrtBjc/6.png",Bein HD6
+http://42.98.109.147:9981/stream/channelid/169743099
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/rpkP1FYW/7.png",Bein HD7
+http://42.98.109.147:9981/stream/channelid/1364029608
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/FHZBxQtB/8.png",Bein HD8
+http://42.98.109.147:9981/stream/channelid/1027178937
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/4y65NzsS/9.png",Bein HD9
+http://42.98.109.147:9981/stream/channelid/1005820488
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/B6stfD76/10.png",Bein HD10
+http://42.98.109.147:9981/stream/channelid/151983205
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/MZgHzhFN/111.png",Bein HD11
+http://42.98.109.147:9981/stream/channelid/42641201
+#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein HD12
+http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15001
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="SPO",Sportv HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="SPO",Sportv 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2036
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="Sportv 3 HD" tvg-logo="http://printv.esy.es/server/SporTV%203.png" group-title="SPO",Sportv 3 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2037
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%20HD.png" group-title="SPO",Fox Sports HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2122
+#EXTINF:-1 tvg-id="FoxSports 2" tvg-name="Fox Sports 2 HD" tvg-logo="http://printv.esy.es/server/Fox%20Sports%202%20HD.png" group-title="SPO",Fox Sports 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2124
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="Espn Brasil HD" tvg-logo="http://printv.esy.es/server/ESPN%20Brasil%20HD.png" group-title="SPO",Espn Brasil HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2105
+#EXTINF:-1 tvg-id="ESPN" tvg-name="Espn HD" tvg-logo="http://printv.esy.es/server/ESPN.png" group-title="SPO",Espn HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2108
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="Espn 2 HD" tvg-logo="http://printv.esy.es/server/ESPN%202.png" group-title="SPO",Espn 2 HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2103
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="Espn Extra HD" tvg-logo="http://printv.esy.es/server/ESPN%20Extra.png" group-title="SPO",Espn Extra HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2107
+#EXTINF:-1 tvg-id="BandSports" tvg-name="Band Sports HD" tvg-logo="http://printv.esy.es/server/Band%20Sports%20HD.png" group-title="SPO",Band Sports HD
+http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2060

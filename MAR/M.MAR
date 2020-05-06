@@ -209,8 +209,6 @@ https://cdnmdc2.useetv.com/joss/14/ducktv/chunklist_w1860627390_b684100_sleng_en
 https://cdnkbl1.useetv.com/joss/14/duniaanak/chunklist_w1967643430_b684100_sleng_enc=3ThWQBsFAqlLk_9qOakjdw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bsg35wC.png"group-title="Kid",Nick
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/43/43753.png" group-title="Kid",SPACETOON
-http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/43/43753.png" group-title="Kid",EBS Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/43/43753.png" group-title="Kid",THE VENTURE BROS
@@ -409,8 +407,6 @@ https://cdnbdsa1.useetv.com/joss/15/bein1/chunklist_w1594363800_b1344100_sleng_.
 https://cdnbdsa1.useetv.com/joss/15/bein2/chunklist_w1196834445_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="spo",USEE SPORT
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1949459549_b1344100_sleng_.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="spo",USEE SPORT2
-https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1014607818_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="spo",FOX SPORT 1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1258343085_b1344100_sleng_.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="spo",FOX SPORT 2
@@ -429,14 +425,10 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",VARZESH TV
 http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 1 HD
-http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 1 SD
 https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 1 low
 https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 2 HD
-http://95.170.215.107/hls/KSA-Sport2-Bakup-M.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 2 SD
 https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="spo",KSA SPORTS 2 low
@@ -467,30 +459,6 @@ http://198.16.106.58:8278/s_6c4db083_1918/playlist.m3u8?tid=m0764471337681831780
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPO"  tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" ,Bein 2 Asia
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/zBy6BRRw/1.png",Bein HD1
-http://42.98.109.147:9981/stream/channelid/1880674381
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/QdbdgvY4/2.png",Bein HD2
-http://42.98.109.147:9981/stream/channelid/1218047888
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/jSgrSTFb/3.png",Bein HD3
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/14984
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/c4zmx5Bz/4.png",Bein HD4
-http://42.98.109.147:9981/stream/channelid/371552797
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/nhkvWFhq/5.png",Bein HD5
-http://42.98.109.147:9981/stream/channelid/1867525775
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/zGbrtBjc/6.png",Bein HD6
-http://42.98.109.147:9981/stream/channelid/169743099
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/rpkP1FYW/7.png",Bein HD7
-http://42.98.109.147:9981/stream/channelid/1364029608
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/FHZBxQtB/8.png",Bein HD8
-http://42.98.109.147:9981/stream/channelid/1027178937
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/4y65NzsS/9.png",Bein HD9
-http://42.98.109.147:9981/stream/channelid/1005820488
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/B6stfD76/10.png",Bein HD10
-http://42.98.109.147:9981/stream/channelid/151983205
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/MZgHzhFN/111.png",Bein HD11
-http://42.98.109.147:9981/stream/channelid/42641201
-#EXTINF:-0 group-title="SPO" tvg-logo="https://i.postimg.cc/gJZ9sBHL/12.png",Bein HD12
-http://tv.hero.iptv.uno:80/tqcK06qlnV782/agotkz642/15001
 #EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv HD" tvg-logo="http://printv.esy.es/server/SporTV.png" group-title="SPO",Sportv HD
 http://dns.clientetv.xyz:8000/Demi90/Ytrewqt/2038
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 HD" tvg-logo="http://printv.esy.es/server/SporTV%202.png" group-title="SPO",Sportv 2 HD

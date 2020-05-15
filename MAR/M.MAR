@@ -120,59 +120,84 @@ https://cdnmdc1.useetv.com/joss/14/tvedukasi/chunklist_w13193120_b684100_sleng_e
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="UTV",EAT & GO
 https://edgejt6.useetv.com/joss/14/eatgo/chunklist_w844787668_b684100_sleng_enc=wgtyim8HcnpUToZlrY40pQ.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",METROTV HD 1
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bw3gje6.png" group-title="WORLDNEWS",COVID-19 NEWS
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="Loc", CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Loc", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",CNN Philippines
+#EXTINF:-1,tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="WORLDNEWS",TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Iv2a6FD.png" group-title="WORLDNEWS",Berita RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBlXaz7.jpg" group-title="WORLDNEWS",CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Ariana TV
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Arirang TV HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Atameken HD
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",BFM Paris
-http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",Bloomberg TV HD
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",CNBC Arabia
-http://vod.hibridcdn.net/cnbc/liveabr/cnbc/live3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",DW TV Espanol
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",France 24 (ENG)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",INFO WARS TV HD
-http://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b2244608.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",News 24 Balkan
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",News 24 Japan
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT America
-http://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT Espanol HD
-http://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT France HD
-http://rt-france.secure.footprint.net/1107.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT News HD
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/21/21601.png" group-title="WORLDNEWS",RT US
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="WORLDNEWS",RTVA CATALAN
-http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="Dubai One ARB" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="WORLDNEWS",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1xba0xd.png" group-title="WORLDNEWS",ABS-CBN News Channel
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy_400x400.jpg" group-title="WORLDNEWS",Sky News Australia Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy_400x400.jpg" group-title="WORLDNEWS",Sky News Australia Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy_400x400.jpg" group-title="WORLDNEWS",Sky News Australia Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Australian_News_Channel_logo.png" group-title="WORLDNEWS",Australian News Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="WORLDNEWS",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="WORLDNEWS",Sky News Americas
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhK4XWv.jpg" group-title="WORLDNEWS",Cheddar News
+https://live.chdrstatic.com/cbn/primary/5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWKCBIz.png" group-title="WORLDNEWS",NHK Kishou-Saigai NHK Kishou-Saigai
+https://nhknewsreal5-i.akamaihd.net/hls/live/267603/nhknewsreal5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="WORLDNEWS",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="WORLDNEWS",NTV News24
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hX98cxJ.png" group-title="WORLDNEWS",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LUhiYfG.jpg" group-title="WORLDNEWS",NBC News Now
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aA5JEO.jpg" group-title="WORLDNEWS",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0NFOPT.jpg" group-title="WORLDNEWS",Tulsa | FOX 23 KOKI NEWS
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBsQp1e.png" group-title="WORLDNEWS",Infowars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ye3X9p0.png" group-title="WORLDNEWS",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WpIjjJo.png" group-title="WORLDNEWS",RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="WORLDNEWS",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw9GNmh.png" group-title="WORLDNEWS",RTL Austria
+http://188.35.9.5:10020/stolen/502r/hot.dll
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="WORLDNEWS",oe24.TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPTJKJP.png" group-title="WORLDNEWS",Rai Italia
+http://103.205.133.42:1935/local/rai_italia_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="WORLDNEWS",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVgMwVq.png" group-title="WORLDNEWS",CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Du5rsc8.png" group-title="WORLDNEWS",RT News
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DFEW9I3.jpg" group-title="WORLDNEWS",Friday International
+http://188.93.95.34:80/friday/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="WORLDNEWS",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p81pwoc.png" group-title="WORLDNEWS",2020 LIVE
+https://dai.google.com/linear/hls/event/mMP0Ny8OTb2Ev2EvsiIlrg/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yum07q.png" group-title="WORLDNEWS",Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U7y7pWA.png" group-title="WORLDNEWS",Kazakh TV English
+http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9QVZGow.png" group-title="WORLDNEWS",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="WORLDNEWS",RTSH 24
+https://edge06eu.ekranet.com/rtsh24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="WORLDNEWS",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/85/85909.png" group-title="Kid",Disney Junior Asia
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
@@ -394,8 +419,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Atv",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Atv",Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Atv",AXN HD
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="Atv",Star Movies

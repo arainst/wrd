@@ -70,14 +70,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASION
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WBlXaz7.jpg" group-title="WORLDNEWS",CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="WORLDNEWS",Kbs WOrld
 https://vcdnjt.useetv.com/joss/15/kbsworld/.m3u8
 ##EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="WORLDNEWS",FRANCE 24
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="WORLDNEWS",ABC AUSTRALIA
 https://vcdnjt.useetv.com/joss/15/abcaustralia/chunklist_w494999586_b894100_sleng_enc=PloBdideOkGbmRJ44ltf9w.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/nhk_150.png" group-title="WORLDNEWS",NHK PREMIUM
 https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w123540726_b1344100_sleng_enc=FjUiToUzI4n4ys9_IOUjIw.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1000895414311075840/gQgMjKmy_400x400.jpg" group-title="WORLDNEWS",Sky News Australia Extra 1
@@ -278,6 +276,60 @@ https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumbs2.imgbox.com/53/fd/6osvMmNc_t.png" group-title="Kid",tvo KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",RTM Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",RTM 1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",RTM 2
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TV8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",8TV
+http://iptvlink.nasvpn.xyz/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TV9
+http://iptvlink.nasvpn.xyz/tv9.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",DRAMA SANGAT HD
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",ASTRO NAURA
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",ASTRO GOSHOP
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",ASTRO AWANI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",ASTRO SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TV3 Backup
+https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TV3 Backup
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",TVIKIM
+http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",useetv sport 2
+https://dl.dropboxusercontent.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",MEDIA CORP5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",MEDIA CORP8
+http://d34e90s3s13i7n.cloudfront.net:80/hls/ch8ctv/master.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Berita RTM
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Astro Warna
+https://dl.dropboxusercontent.com/s/j4qxbpzwblmi2r0/warna.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Astro Ria
+https://dl.dropboxusercontent.com/s/6phdlnye69n6469/ria.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Astro Ceria
+https://dl.dropboxusercontent.com/s/cudmad8yy2tnbsg/ceria.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Astro Oasis
+https://dl.dropboxusercontent.com/s/i2aaztikdn0l0nv/oasis.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://image.flaticon.com/icons/png/512/49/49672.png" group-title="MLY",Astro BOO
+https://dl.dropboxusercontent.com/s/u04mt8q7y9goiy6/boo.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="LF",FashionTV
 https://cdnbdsa1.useetv.com/joss/15/fashiontv/chunklist_w1674580146_b684100_sleng_enc=LWgF-o5wi_K2yRl226PEdQ.m3u8
@@ -419,6 +471,84 @@ https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w2040553380_b894100_sleng_enc
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w462988346_b1344100_sleng_enc=bgiWQVzxjDZPqB_p2DYUvQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MV",AXN
 https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1827865589_b684100_sleng_enc=-guSxDBptquJBWylRmxGrg.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MV",Warner TV
+https://cdnbpp1.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="MV",KIX
+https://cdnbpp1.useetv.com/joss/15/kix/chunklist_w1088520910_b894100_sleng_307710.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="MV",K+
+https://cdnbpp1.useetv.com/joss/15/kplus/chunklist_w1548894719_b894100_sleng_262387.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="MV",GALAXY
+https://cdnbpp1.useetv.com/joss/15/galaxy/chunklist_w349778864_b684100_sleng_168495.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small1.png" group-title="MV",SONY GEM
+https://cdnbpp1.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MV",TVN MOVIES
+https://cdnbpp1.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MV",SONY ONE
+https://cdnbpp1.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="MV",TVN
+https://cdnbpp1.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MV",AXN
+https://cdnbpp1.useetv.com/joss/15/axn/chunklist_w1022117522_b894100_sleng_369892.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="MV",KBS WORLD
+https://cdnbpp1.useetv.com/joss/15/kbsworld/chunklist_w1977139449_b894100_sleng_308179.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/HBO_logo_1975.png" group-title="MV",HBO HD
+https://dl.dropbox.com/s/j3jzpyu3spth6yv/hbohd.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/HBO_Family_Logo.png" group-title="MV",HBO FAMILY
+https://dl.dropbox.com/s/91fnwvhvz0js1iw/hbofamily.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MV",HBO SIGNATURE
+https://dl.dropbox.com/s/1beab5ku4m9xg5b/hbosignature.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MV",HBO HITS
+https://dl.dropbox.com/s/xi8asdz4m81qxv7/hbohits.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/9b/Screen_RED_%28logo%29.jpg" group-title="MV",RED BY HBO
+https://dl.dropbox.com/s/kl3b6neq94k1m3r/redbyhbo.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MV",CINEMAX
+https://dl.dropbox.com/s/hd5rpo0bxc42g8a/cinemax.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg" group-title="MV",FOX
+https://dl.dropbox.com/s/sgf12sqnp4vo6xq/foxhd.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/80/FOX_Action_Movies_%282017%29.png" group-title="MV",
+FOX MOVIES
+https://dl.dropbox.com/s/sjro8jiyl296ep7/foxmovies.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/50/Fox-Crime.png" group-title="MV",
+FOX CRIME
+https://dl.dropbox.com/s/qqkftvfmwx49zb1/foxcrime.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fam.png" group-title="MV",FOX ACTION
+https://dl.dropbox.com/s/3imiktf301ry0lu/foxaction.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fox-Life.png/1200px-Fox-Life.png" group-title="MV",FOX LIFE
+https://dl.dropbox.com/s/hmye0lv4ek12ixz/foxlife.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="MV",FOX FAMILY
+https://dl.dropbox.com/s/sl7fs5v9qtknxh2/foxfamily.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="MV",THRILL
+https://dl.dropbox.com/s/4nvytycvuljn6gj/thrill.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="MV",CINEMA WORLD
+https://dl.dropbox.com/s/7739twoy1i3u55r/cinemaworld.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.mint.web.id/images/channel/1562218642.jpg" group-title="MV",MY CINEMA
+https://dl.dropbox.com/s/keqi8fir94lzagr/mycinema.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="MV",AXN
+https://dl.dropbox.com/s/j3iw52g20sfp730/axn.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MV",SONY ONE
+https://dl.dropbox.com/s/7f3sbfwml3hnfoh/sonyone.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1165851194960384000/h7j6Rn95_400x400.jpg" group-title="MV",MNX
+https://dl.dropbox.com/s/gc6vkr4xwe6apox/mnx.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Logo_Romedy_Now.jpg" group-title="MV",ROMEDY NOW
+https://dl.dropbox.com/s/ww8mfqcwrbb9w32/romedynow.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="MV",HITS
+https://dl.dropbox.com/s/ogg1p9fszzsygao/hits.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Movies_Now_logo.png" group-title="MV",MOVIES NOW
+https://dl.dropbox.com/s/vqmrj3hdzmqhmbs/moviesnow.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="MV",FLIK
+https://dl.dropbox.com/s/yv6toddym9g06ng/flik.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vqL10nm/CITRA-BIOSKOP-PPI-IP-TV.png" group-title="MV",CITRA BIOSKOP
+https://dl.dropbox.com/s/l0sevst8g9puk2v/citrabioskop.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="MV",WARNER TV
+https://dl.dropbox.com/s/77wls5hkitrqr4t/warnertv.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="MV",TVN MOVIES 2
+https://dl.dropbox.com/s/poj7v53i45cdvyx/tvnmovies.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://serpongupdate.com/wp-content/uploads/2019/04/HITS-Movies-650x394.jpg" group-title="MV",HITS MOVIES
+https://dl.dropbox.com/s/3u03ly441nagm0r/hitsmovies.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7e/CI_Crime_Investigation_Network_Logo.png" group-title="MV",CRIME INVESTIGATION
+https://dl.dropbox.com/s/w0k7a7f6b4s1w1f/crimeinvestigation.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/146-1466617_fx-logo-sign-hd-png-download.png" group-title="MV",FX
+https://dl.dropbox.com/s/pq7yfbbbfraobm8/fx.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="MV",Zee Bioskop
 https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="MV",S-ONE

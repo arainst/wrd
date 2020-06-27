@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://miro.medium.com/max/4000/1*qBDaOlhmfJMjiTa0UlF2eA.jpeg" group-title="INSOMNIA",The Banker (2020)
+https://bit.ly/2V0ng3q
+#EXTINF:-1 tvg-chno="922" tvg-id="ext" tvg-name="Transformers (2007)" tvg-logo="" group-title="INSOMNIA",Transformers (2007)
+https://lh3.googleusercontent.com/Kr3DVg5_cgsAXQ973lWU9zSDJlSuPP9Xe26K4h-w0Nn0WzDR-CqGABUUKox0ZSv183GER98QUo9jD78M_Q=m22
+#EXTINF:-1 tvg-chno="923" tvg-id="ext" tvg-name="Transformers: Revenge of the Fallen (2009)" tvg-logo="" group-title="INSOMNIA",Transformers: Revenge of the Fallen (2009)
+https://lh3.googleusercontent.com/agnj6cv9ftj36bJ5aw57IIcyNxDQrl0yZUdBqNpkdeNt0UQE8ZJhjkSHUCnmihXaMkKEtzyACaW3OzfDZQ=m22
+#EXTINF:-1 tvg-chno="924" tvg-id="ext" tvg-name="Transformers: Dark of the Moon (2011)" tvg-logo="" group-title="INSOMNIA",Transformers: Dark of the Moon (2011)
+https://lh3.googleusercontent.com/dLyLwxvq3u--piWExrhbtu3mTxNVEjkk4rsQsBfBFGEWh5jFDldz5dxl426h3h8dmj8qqhGk57kagyT3Bg=m22
+#EXTINF:-1 tvg-chno="925" tvg-id="ext" tvg-name="Transformers: Age of Extinction (2014)" tvg-logo="" group-title="INSOMNIA",Transformers: Age of Extinction (2014)
+https://lh3.googleusercontent.com/3IMYQ8FRl5PlsjDNQX5etcMly-Yls-pn7I8Zk2VmSRQHl-KXp6Zof8qI_KD5H6ihNKQJRm7ssHfcSSoypA=m22
+#EXTINF:-1 tvg-chno="926" tvg-id="ext" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="" group-title="INSOMNIA",Transformers: The Last Knight (2017)
+https://lh3.googleusercontent.com/8k0XH4p3iet6WkV9XoBrqRTYIAedbiMC6fuRJ5tReYGostiOBDqItVJwapPFk6ET0JcW5qpHbV27ncPDyw=m22
+#EXTINF:-1 tvg-chno="927" tvg-id="ext" tvg-name="Bumblebee (2018)" tvg-logo="" group-title="INSOMNIA",Bumblebee (2018)
+https://lh3.googleusercontent.com/YJmYY9CVyW4y7yKpzmt9-dhlRpeK_YnpeGQNbiMQH5z0vrezUKJqqdHfwMEu3mM12NRYhWiOISAWzAZrTQ=m22
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/RCTI_tegak_grey.png" group-title="Loc",RCTI
 https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" group-title="Loc",RCTI HD

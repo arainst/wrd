@@ -16,8 +16,10 @@ https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-m
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" group-title="Loc",GTV HD
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Loc",INDOSIAR
+http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png" group-title="Loc",INDOSIAR HD
-https://cdnmdc2.useetv.com/joss/15/indosiar/chunklist_w72459728_b894100_sleng_108233.m3u8
+http://iptv.burhansyam.com/vidio/indosiar.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sctv_id.png" group-title="Loc",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="Loc",SCTV HD
@@ -25,19 +27,17 @@ https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_17
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Loc",NET TV
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net_tv_id.png" group-title="Loc",NET TV HD
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+http://iptv.burhansyam.com/vidio/net.m3u8
 #EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/ANTV.jpg" group-title="Loc",ANTV
 http://202.80.222.174/000001/2/ch14061215034900095272/1024.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/ANTV.jpg" group-title="Loc",ANTV HD
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/ANTV.jpg" group-title="Loc",ANTV 2
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/02/ANTV.jpg" group-title="Loc",ANTEPE ALIEN
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="Loc",TRANSTV
-http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62186
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" group-title="Loc",TRANSTV HD
-https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1373123111_b894100_sleng_307580.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="Loc",TRANS 7
-http://portal.geniptv.com:8080/VdsWDySn6A/96JDX8nsCr/62187
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="Loc",TRANS7 HD
-https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1257963285_b894100_sleng_307574.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="Loc", METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Loc", TV ONE
@@ -52,11 +52,6 @@ https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-m
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Loc", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="Loc",IDKU
-https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1309419660_b1344100_sleng_enc=Uz6gKLE1wgiG7JZCvLrJWA.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="Loc",BALI TV
-https://edgejt6.useetv.com/joss/18/balitv/chunklist_w625693128_b684100_sleng_1592374261.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bw3gje6.png" group-title="WORLDNEWS",COVID-19 NEWS
 https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
